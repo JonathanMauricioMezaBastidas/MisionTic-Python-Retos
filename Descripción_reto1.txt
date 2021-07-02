@@ -27,9 +27,7 @@ Tres enteros separados por espacio que representan las valores para cada uno de 
 Entrada:       Salida:
 
 178            178 360 107
-
-			   cuatro   
+               cuatro   
 
 29             29 62 18
-
-			   dos			   
+               dos			   
