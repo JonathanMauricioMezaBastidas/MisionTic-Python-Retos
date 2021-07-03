@@ -16,11 +16,11 @@ Elabora un programa que permita, dado el Índice de Vulnerabilidad de la persona
 
 Nota: Los factores de riesgo son números enteros, en caso de necesitarlo se puede usar la función de parte entera int.
 
-**Entrada**
+**Entrada:**
 
 La entrada es un número que representa el Índice de Vulnerabilidad de la persona.
 
-**Salida**
+**Salida:**
 
 Tres enteros separados por espacio que representan las valores para cada uno de los factores de riesgo FB-1, FB-2 y FB-3. En la siguiente línea en letras la fase de vacunación en la cual se encuentra la persona.
 
