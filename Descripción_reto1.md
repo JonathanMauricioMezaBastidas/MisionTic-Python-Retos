@@ -25,7 +25,7 @@ La entrada es un número que representa el Índice de Vulnerabilidad de la perso
 Tres enteros separados por espacio que representan las valores para cada uno de los factores de riesgo FB-1, FB-2 y FB-3. En la siguiente línea en letras la fase de vacunación en la cual se encuentra la persona.
 
 | ENTRADA      | SALIDA |
-| --------- | -----:|
+|:---------:|:-----:|
 | 178  | 178 360 107 |
 |      |   cuatro |
 | 29      |    29 62 18 |
