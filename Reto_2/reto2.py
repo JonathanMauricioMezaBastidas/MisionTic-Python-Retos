@@ -1,3 +1,4 @@
+# Author: [Jonathan Meza](https://github.com/JonathanMeza0107)
 j=input()
 k=input()
 g=input()

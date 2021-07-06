@@ -1,3 +1,4 @@
+# Author: [Jonathan Meza](https://github.com/JonathanMeza0107)
 def fR1(indice_vulnerabilidad):
 	factorR1=indice_vulnerabilidad
 	fR2=factorR1*2

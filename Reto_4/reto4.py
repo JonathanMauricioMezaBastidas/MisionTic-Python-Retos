@@ -1,3 +1,4 @@
+# Author: [Jonathan Meza](https://github.com/JonathanMeza0107)
 import json
 
 lista=input()
