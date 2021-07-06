@@ -6,7 +6,7 @@ Elaborar un programa que permita, dada la disponibilidad de productos que tiene 
 
 **Entrada:**
 
-Dos cadenas de caracteres. La primera cadena representa un diccionario (en formato JSON) que tiene las parejas ingrediente:precio de todos los ingredientes disponibles en la plaza de mercado, y la segunda representa la lista de ingredientes (separados por espacio) que necesita el chef para preparar sus pizzas.
+Dos cadenas de caracteres. La primer cadena representa un diccionario (en formato JSON) que tiene las parejas ingrediente:precio de todos los ingredientes disponibles en la plaza de mercado, y la segunda representa la lista de ingredientes (separados por espacio) que necesita el chef para preparar sus pizzas.
 
 **Salida:**
 
