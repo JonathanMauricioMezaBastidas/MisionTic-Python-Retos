@@ -1,5 +1,5 @@
 
-Bienvenido al repositorio de retos propuestos por la Universidad Nacional de Colombia, 
+Bienvenid@ al repositorio de retos propuestos por la Universidad Nacional de Colombia, 
 en el Ciclo 1 del programa del Gobierno Misión Mintic 2022.
 
 Las soluciones a los retos son de mi autoría, sin embargo, son de libre
