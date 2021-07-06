@@ -25,3 +25,5 @@ aprendidos durante el transcurso del ciclo.
 - [[file:./Reto_3][Reto 3]]
 - [[file:./Reto_4][Reto 4]]
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMeza0107>
+
