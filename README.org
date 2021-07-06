@@ -15,7 +15,7 @@ Por ejemplo:
 *** Ciclo 1 - Python
 En el ciclo 1 se impartieron los fundamentos de la programación
 utilizando Python, iniciando con los tipos de datos, funciones,
-estructuras condicionales, estructuras de datos y libreías. 
+estructuras condicionales, estructuras de datos y librerías. 
 
 Los retos fueron diseñados de tal manera que se pudieran realizar con los conocimientos 
 aprendidos durante el transcurso del ciclo.
