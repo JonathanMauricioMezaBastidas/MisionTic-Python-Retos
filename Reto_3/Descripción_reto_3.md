@@ -2,7 +2,7 @@
 
 El gobernante de la ciudad de Nuncalandia quiere implementar un sistema de vigilancia epidemiológico en cada establecimiento, con el fin de poder rastrear a todas las personas que ingresan al mismo. Para ello, ubica una cámara inteligente que registra cuantas veces ingresa una persona al establecimiento. Al final del día, la cámara tiene registro de todas las personas que ingresaron al establecimiento.
 
-Elaborar un programa que permita, dado el registro de personas que ingresaron al establecimiento, conocer la cantidad de veces que una persona ingreso al establecimiento antes de que el sistema registrara el ingreso otra persona.
+Elaborar un programa que permita, dado el registro de personas que ingresaron al establecimiento, conocer la cantidad de veces que una persona ingresó al establecimiento antes de que el sistema registrara el ingreso de otra persona.
 
 **Entrada:**
 
