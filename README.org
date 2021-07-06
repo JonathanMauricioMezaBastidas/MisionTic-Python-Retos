@@ -25,5 +25,7 @@ aprendidos durante el transcurso del ciclo.
 - [[file:./Reto_3][Reto 3]]
 - [[file:./Reto_4][Reto 4]]
 
-[! [Estadísticas de GitHub de Joanthan Meza] (https://github-readme-stats.vercel.app/api/?username=JonathanMeza0107 )]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMeza0107&layout=compact&hide=javascript" width="400">
+
+
 
