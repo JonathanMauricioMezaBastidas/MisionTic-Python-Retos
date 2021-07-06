@@ -39,6 +39,7 @@ Una cadena de caracteres con los símbolos (J, K, L) que representa los puntos a
 
 **Ejemplo:**
 
+
 | Entrada      | Salida |
 |:---------:|:-----:|
 | AQW  | KKKLJJ |
