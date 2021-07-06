@@ -10,7 +10,7 @@ Los valores de cada factor de riesgo serán obtenidos de la siguiente manera:
 
 - El tercer factor de riesgo (FR-3) es tomado como relación de FR-1 y FR-2 como sigue: cinco veces el valor del tercer factor de riesgo (FR-3) es igual a la suma de los valores obtenidos en el primer y segundo factor de riesgo, FR-1 y FR-2 respectivamente.
 
-La fase de vacunación de la persona estará dada por el valor obtenido del tercer factor de riego FR-3. Si el valor de FR-3 está entre 0 y 20, la persona estará priorizado para la fase 1. Si el valor se encuentra entre 21 y 30, la persona estará priorizado para la fase 2. En caso de que el valor de FR-3 este entre 31 y 50, su priorización será la fase 3. Finalmente, si el valor de FR-3 es mayor a 51, la persona será priorizada para la fase 4.
+La fase de vacunación de la persona estará dada por el valor obtenido del tercer factor de riego FR-3. Si el valor de FR-3 está entre 0 y 20, la persona estará priorizada para la fase 1. Si el valor se encuentra entre 21 y 30, la persona estará priorizada para la fase 2. En caso de que el valor de FR-3 este entre 31 y 50, su priorización será la fase 3. Finalmente, si el valor de FR-3 es mayor a 51, la persona será priorizada para la fase 4.
 
 Elabora un programa que permita, dado el Índice de Vulnerabilidad de la persona, conocer los valores obtenidos en los diferentes factores de riesgo (FR-1, FR-2, FR-3), así como la fase de vacunación en la que se encuentra cada persona.
 
