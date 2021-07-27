@@ -1,15 +1,6 @@
 
 Bienvenid@ al repositorio de retos propuestos por la Universidad Nacional de Colombia, 
-en el marco del Ciclo 1 del programa del Gobierno Misión Mintic 2022.
-
-Las soluciones a los retos son de mi autoría, sin embargo, son de libre
-uso. Si deseas contribuir con tu solución a cualquiera de los retos aquí descritos,
-recuerda que puedes añadir un comentario al inicio del archivo con tu nombre y enlace de GitHub.
-Por ejemplo:
-
-#+BEGIN_SRC python
-  # Author: [Jonathan Meza](https://github.com/JonathanMeza0107)
-#+END_SRC
+en el marco del Ciclo 1 del programa del Gobierno Misión Tic 2022.
 
 ** Listado de Retos por Ciclo
 *** Ciclo 1 - Python
