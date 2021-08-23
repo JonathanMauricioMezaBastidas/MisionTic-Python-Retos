@@ -1,4 +1,3 @@
-# Author: [Jonathan Meza](https://github.com/JonathanMeza0107)
 personas = list(input().replace(" ","").upper())
 
 Comparacion = []
