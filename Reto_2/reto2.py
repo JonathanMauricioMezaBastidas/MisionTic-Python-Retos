@@ -1,4 +1,3 @@
-
 j=input()
 k=input()
 g=input()
