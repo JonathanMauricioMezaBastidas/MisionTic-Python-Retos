@@ -9,7 +9,7 @@ estructuras condicionales, estructuras de datos y librerías.
 Los retos fueron diseñados de tal manera que se pudieran realizar con los conocimientos 
 aprendidos durante el transcurso del ciclo.
 
-*** Listado de Retos
+*** Listado de Retos:
 
 - [[file:./Reto_1/][Reto 1]]
 - [[file:./Reto_2][Reto 2]]
