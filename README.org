@@ -3,9 +3,9 @@ en el marco del Ciclo 1 del programa de formación de Programación de Software,
 Misión Tic 2022.
 
 ** Ciclo 1 - Python
-En el ciclo 1 se impartieron los fundamentos de la programación
-utilizando Python, iniciando con los tipos de datos, funciones,
-estructuras condicionales, estructuras de datos y librerías. 
+En el ciclo 1 se impartieron los fundamentos de la programación 
+de software utilizando Python, iniciando con los tipos de datos, 
+funciones, estructuras condicionales, estructuras de datos y librerías. 
 
 Los retos fueron diseñados de tal manera que se pudieran realizar con los conocimientos 
 aprendidos durante el transcurso del ciclo.
