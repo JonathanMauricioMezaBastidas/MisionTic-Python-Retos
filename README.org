@@ -1,6 +1,6 @@
 Bienvenid@ al repositorio de retos propuestos por la Universidad Nacional de Colombia, 
 en el marco del Ciclo 1 del programa de formación de Programación de Software, 
-del Gobierno de Colombia, Misión Tic 2022.
+Misión Tic 2022.
 
 ** Ciclo 1 - Python
 En el ciclo 1 se impartieron los fundamentos de la programación
