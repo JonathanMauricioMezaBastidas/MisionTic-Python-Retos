@@ -1,6 +1,6 @@
 # Descripción Reto 2
 
-El gobernante del país de Nuncalandia debe vacunar a la población de su país, pero lamentablemente solo tiene vacunas para la mitad de ellos. Mientras planeaba cómo hacerlo, vio en su biblioteca el juego de Scrabble y se le ocurrió su propio juego para determinar a quién vacunar.
+El gobernante del país de Colombia debe vacunar a la población de su país, pero lamentablemente solo tiene vacunas para la mitad de ellos. Mientras planeaba cómo hacerlo, vio en su biblioteca el juego de Scrabble y se le ocurrió su propio juego para determinar a quién vacunar.
 
 El juego consiste en lo siguiente:
 
