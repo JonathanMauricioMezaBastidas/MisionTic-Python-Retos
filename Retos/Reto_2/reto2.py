@@ -1,7 +1,7 @@
 j=input()
 k=input()
 g=input()
-x=''
+x='' # Se acumula en x
 
 def libreta(x):
 	contador_j=0
