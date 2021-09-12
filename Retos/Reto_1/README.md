@@ -6,7 +6,7 @@ Los valores de cada factor de riesgo serán obtenidos de la siguiente manera:
 
 - El primer factor de riesgo (FR-1) está asociado a un Índice de Vulnerabilidad propuesto por el instituto de planeación ADNE. Este índice es construido de acuerdo con parámetros como: comorbilidad, hacinamiento, densidad poblacional, entre otros. Este Índice de Vulnerabilidad es transformado a factor de riesgo utilizando la función de parte entera int, la cual toma un número real (Índice de Vulnerabilidad) y devuelven el número entero más próximo (FR-1).
 
-- El segundo factor de riesgo (FR-2) es construido usando la siguiente relación: el doble del valor del primer factor de riesgo (FR-1) es igual al valor del segundo factor de riesgo (FR-2) menos cuatro.
+- El segundo factor de riesgo (FR-2) es construido usando la siguiente relación: el doble del valor del primer factor de riesgo (FR-1) es igual al valor del segundo factor de riesgo (FR-2), menos cuatro.
 
 - El tercer factor de riesgo (FR-3) es tomado como relación de FR-1 y FR-2 como sigue: cinco veces el valor del tercer factor de riesgo (FR-3) es igual a la suma de los valores obtenidos en el primer y segundo factor de riesgo, FR-1 y FR-2 respectivamente.
 
