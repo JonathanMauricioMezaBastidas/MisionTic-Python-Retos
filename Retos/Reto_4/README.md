@@ -1,6 +1,6 @@
 # Descripción Reto 4
 
-El chef de la pizzeria “Mominos” sale todas las mañanas a la plaza de mercado a comprar los ingredientes para sus pizzas. Como él tiene una lista con los ingredientes que le hacen falta, quieren saber los ingredientes que puede comprar y el precio a pagar por dicha compra, dada la disponibilidad de productos en la plaza.
+El chef de la pizzeria “Mominos” sale todas las mañanas a la plaza de mercado a comprar los ingredientes para sus pizzas. Como él tiene una lista con los ingredientes que le hacen falta, quiere saber los ingredientes que puede comprar y el precio a pagar por dicha compra, dada la disponibilidad de productos en la plaza.
 
 Elaborar un programa que permita, dada la disponibilidad de productos que tiene la plaza de mercado y la lista de ingredientes que le faltan al chef, conocer los ingredientes que compró y el precio total que pagó por su compra.
 
