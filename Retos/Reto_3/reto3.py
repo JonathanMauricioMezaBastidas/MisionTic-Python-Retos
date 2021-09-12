@@ -1,3 +1,4 @@
+# Convertir una cadena de carcateres a lista
 personas = list(input().replace(" ","").upper())
 
 Comparacion = []
