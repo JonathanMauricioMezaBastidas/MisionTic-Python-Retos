@@ -33,7 +33,7 @@ librería debe contener las siguientes funcionalidades:
        6, 8]=.
    *** 2.) Lista de tipos de pizzas que los clientes reservaron: =["M",
        "V", "P", "P", "H", "H", "M", "M", "P", "C"]=.
-   *** 3.) Cadena de texto con el tipo de pizza a llevar: ='P'=.
+   *** 3.) Cadena de texto con el tipo de pizza a llevar: ="P"=.
 
   *Salida*: Lista de repartidores disponibles para llevar este tipo de
   pizza: =[3, 8]=.
@@ -44,9 +44,9 @@ librería debe contener las siguientes funcionalidades:
   repartidores aún están disponibles para hacer domicilios.
 
   *Argumento*:
-   *** 1.) Lista de los códigos de los repartidores: =[3, 5, 7, 10, 15,
+   *** 1. Lista de los códigos de los repartidores: =[3, 5, 7, 10, 15,
        16]=.
-   *** 2.) Lista de los códigos de los repartidores que ya tienen un una
+   *** 2. Lista de los códigos de los repartidores que ya tienen un una
        entrega asignada: =[4, 10, 5, 8]=.
 
   *Salida*: Lista de repartidores disponibles para hacer domicilios:
