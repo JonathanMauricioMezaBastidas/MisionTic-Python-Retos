@@ -12,8 +12,7 @@ librería debe contener las siguientes funcionalidades:
 - Una función llamada =pedidos=, que resume en una lista
   los diferentes tipos de pizza que han solicitado los clientes.
 
-  *Argumento*: Lista de tipos de pizza que los clientes pidieron: 
-  =["M", "V", "P", "P", "H", "H", "M", "M", "P", "C"]=
+  *Argumento*: Lista de tipos de pizza que los clientes pidieron =["M", "V", "P", "P", "H", "H", "M", "M", "P", "C"]=
 
   *Salida*: Lista que resume los diferentes tipos de pizza =["M",
   "V", "P", "H", "C"]=
@@ -29,11 +28,11 @@ librería debe contener las siguientes funcionalidades:
   de pizzas que él puede entregar.
 
   *Argumento*:
-   a. Lista de los códigos de los repartidores disponibles: =[1, 3,
+   i. Lista de los códigos de los repartidores disponibles: =[1, 3,
        6, 8]=.
-   b. Lista de tipos de pizzas que los clientes reservaron: =["M",
+   ii. Lista de tipos de pizzas que los clientes reservaron: =["M",
        "V", "P", "P", "H", "H", "M", "M", "P", "C"]=.
-   c. Cadena de texto con el tipo de pizza a llevar: =P=.
+   iii. Cadena de texto con el tipo de pizza a llevar: =P=.
 
   *Salida*: Lista de repartidores disponibles para llevar este tipo de
   pizza: =[3, 8]=.
