@@ -63,7 +63,7 @@ librería debe contener las siguientes funcionalidades:
 
   Listas:	
 
-   (1.) Lista de los códigos de los repartidores disponibles: =[3, 5,
+   [1.] Lista de los códigos de los repartidores disponibles: =[3, 5,
        7, 10, 15, 16]=.
    2. Lista de los códigos de los repartidores auxiliares que tiene
        la pizzería: =[4, 10, 5, 8]=.
