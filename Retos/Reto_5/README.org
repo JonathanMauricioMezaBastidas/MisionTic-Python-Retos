@@ -27,7 +27,7 @@ librería debe contener las siguientes funcionalidades:
   identificador del repartidor indica la posición dentro del listado
   de pizzas que él puede entregar.
 
-  *Argumento*:
+  Argumento:
 
    1. Lista de los códigos de los repartidores disponibles: =[1, 3,
        6, 8]=.
@@ -43,7 +43,7 @@ librería debe contener las siguientes funcionalidades:
   repartidores que ya tienen una entrega asignada, consulte cuales
   repartidores aún están disponibles para hacer domicilios.
 
-  *Argumento*:
+  Argumento:
 
    1. Lista de los códigos de los repartidores: =[3, 5, 7, 10, 15,
        16]=.
@@ -59,7 +59,7 @@ librería debe contener las siguientes funcionalidades:
   cantidad de repartidores auxiliares que NO están trabajando en este
   momento en la pizzería.
 
-  *Argumento*:
+  Argumento:
 
    1. Lista de los códigos de los repartidores disponibles: =[3, 5,
        7, 10, 15, 16]=
