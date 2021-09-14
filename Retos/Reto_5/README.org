@@ -9,7 +9,7 @@ día.
 Se debe desarrollar una librería llamada =control_pizzeria=. Esta
 librería debe contener las siguientes funcionalidades:
 
-- Una función llamada *pedidos*, que resume en una lista
+- Una función llamada =*pedidos*=, que resume en una lista
   los diferentes tipos de pizza que han solicitado los clientes.
 
   *Argumento*: Lista de tipos de pizza que los clientes pidieron: 
@@ -18,7 +18,7 @@ librería debe contener las siguientes funcionalidades:
   *Salida*: Lista que resume los diferentes tipos de pizza =["M",
   "V", "P", "H", "C"]=
 
-- Una función *debo_llevar*, que dada una lista de códigos
+- Una función llamada =*debo_llevar*=, que dada una lista de códigos
   de repartidores disponibles en el día, el listado de pizzas que la
   pizzería debe repartir ese día, y el tipo de pizza a llevar,
   consulte cuales repartidores están disponibles para llevar ese tipo
@@ -29,46 +29,40 @@ librería debe contener las siguientes funcionalidades:
   de pizzas que él puede entregar.
 
   *Argumento*:
-#+BEGIN_SRC	
-    1.) Lista de los códigos de los repartidores disponibles: - =[1, 3,
+    1.) Lista de los códigos de los repartidores disponibles: =[1, 3,
        6, 8]=.
     2.) Lista de tipos de pizzas que los clientes reservaron: =["M",
        "V", "P", "P", "H", "H", "M", "M", "P", "C"]=.
     3.) Cadena de texto con el tipo de pizza a llevar: ='P'=.
-#+END_SRC
 
   *Salida*: Lista de repartidores disponibles para llevar este tipo de
   pizza: =[3, 8]=.
 
-- Una función llamada *faltan_repartidores*, que dada la
+- Una función llamada =*faltan_repartidores*=, que dada la
   lista de todos los repartidores disponibles en la pizzería y los
   repartidores que ya tienen una entrega asignada, consulte cuales
   repartidores aún están disponibles para hacer domicilios.
 
   *Argumento*:
-#+BEGIN_SRC
     1.) Lista de los códigos de los repartidores: =[3, 5, 7, 10, 15,
        16]=.
     2.) Lista de los códigos de los repartidores que ya tienen un una
        entrega asignada: =[4, 10, 5, 8]=.
-#+END_SRC
 
   *Salida*: Lista de repartidores disponibles para hacer domicilios:
   =[3, 7, 15, 16]=.
 
-- Una función *posible_intercambio*, que dada la lista de
+- Una función llamada =*posible_intercambio*=, que dada la lista de
   todos los repartidores disponibles en la pizzería y otra lista con
   los repartidores auxiliares que tiene la pizzería, consulte la
   cantidad de repartidores auxiliares que NO están trabajando en este
   momento en la pizzería.
 
   *Argumento*:
-#+BEGIN_SRC
     1.) Lista de los códigos de los repartidores disponibles: =[3, 5,
        7, 10, 15, 16]=
     2.) Lista de los códigos de los repartidores auxiliares que tiene
        la pizzería: =[4, 10, 5, 8]=
-#+END_SRC
 
   *Salida*: Cantidad de repartidores que No están trabajando en este
   momento en la pizzería =2=. Los 2 repartidores auxiliares que No
