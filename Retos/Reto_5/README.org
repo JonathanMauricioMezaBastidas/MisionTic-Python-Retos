@@ -59,12 +59,14 @@ librería debe contener las siguientes funcionalidades:
   cantidad de repartidores auxiliares que NO están trabajando en este
   momento en la pizzería.
 
-  Argumento:
+  *Argumento:*
+
+  Listas:	
 
    1. Lista de los códigos de los repartidores disponibles: =[3, 5,
-       7, 10, 15, 16]=
+       7, 10, 15, 16]=.
    2. Lista de los códigos de los repartidores auxiliares que tiene
-       la pizzería: =[4, 10, 5, 8]=
+       la pizzería: =[4, 10, 5, 8]=.
 
   *Salida*: Cantidad de repartidores que No están trabajando en este
   momento en la pizzería =2=. Los 2 repartidores auxiliares que No
