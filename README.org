@@ -67,3 +67,45 @@ Si eres usuario de Ubuntu o Debian por ejemplo puedes usar este comando para ins
 #+BEGIN_SRC
 $ sudo apt-get install python3.1
 #+END_SRC
+
+Si eres usuario de Red Hat o Centos por ejemplo puedes usar este comando para instalar python:
+
+#+BEGIN_SRC
+$ sudo yum install python
+#+END_SRC
+
+Si eres usuario habitual de linux también puedes [[https://www.python.org/downloads/source/][descargar los archivos]] para instalarlo manualmente.
+
+** Antes de empezar:
+
+Para usar Python debemos tener un editor de texto abierto y una terminal o cmd (línea de comandos en Windows) como administrador.
+
+No le tengas miedo a la consola, la consola es tu amiga.
+
+Para ejecutar Python abre la terminal y escribe:
+
+#+BEGIN_SRC
+python
+#+END_SRC
+
+Te abrirá una consola de Python, lo notarás porque el prompt cambia y ahora te muestra tres simbolos de mayor que “ >>> “ y el puntero adelante indicando que puedes empezar a ingresar comandos de python.
+
+#+BEGIN_SRC
+ >>> 
+#+END_SRC
+
+En éste modo puedes usar todos los comandos de Python o escribir código directamente.
+
+Si deseas ejecutar código de un archivo sólo debes guardarlo con extension.py y luego ejecutar en la terminal:
+
+#+BEGIN_SRC
+$ python archivo.py
+#+END_SRC
+
+Ten en cuenta que para ejecutar el archivo con extensión “.py” debes estar ubicado en el directorio donde tienes guardado el archivo.
+
+*Para salir de Python* y regresar a la terminal debes usar el comando exit()
+
+Cuando usamos Python debemos atender ciertas reglas de la comunidad para definir su estructura. Las encuentras en el libro [[https://www.python.org/dev/peps/pep-0008/][PEP8]].
+
+
