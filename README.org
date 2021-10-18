@@ -327,9 +327,9 @@ Para crear un constructor haces una función dentro de la clase con el nombre in
 
 Lo que hicimos en las dos últimas líneas fue:
 
-- En la variable e llamamos la clase Estudiante y le pasamos la cadena “Arturo” y el entero 21.
+- En la variable =e= llamamos la clase Estudiante y le pasamos la cadena =“Arturo”= y el entero =21=.
 
-- Imprimimos la función hola() dentro de la variable e (a la que anteriormente habíamos pasado la clase).
+- Imprimimos la función =hola()= dentro de la variable =e= (a la que anteriormente habíamos pasado la clase).
 
 Y por eso se imprime la cadena “Mi nombre es Arturo y tengo 21”
 
