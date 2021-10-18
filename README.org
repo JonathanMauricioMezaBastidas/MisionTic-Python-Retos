@@ -21,6 +21,4 @@ aprendidos durante el transcurso del ciclo.
 
 ** ¿Qué es Python?
 
-[[https://en.wikipedia.org/wiki/Guido_van_Rossum]]
-
 Python es un lenguaje de programación creado por [[https://en.wikipedia.org/wiki/Guido_van_Rossum][Guido Van Rossum]], con una sintaxis muy limpia, ideado para enseñar a la gente a programar bien. Se trata de un lenguaje interpretado o de script.
