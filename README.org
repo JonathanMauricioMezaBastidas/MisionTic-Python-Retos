@@ -344,5 +344,55 @@ Método llamado para comprobar la longitud del objeto. Lo usas, por ejemplo, cua
 *** init(self,otro)
 Es un constructor de nuestra clase, es decir, es un “método especial” que se llama automáticamente cuando creas un objeto.
 
+** Condicionales IF
 
+Los condicionales tienen la siguiente estructura. Ten en cuenta que lo que contiene los paréntesis es la comparación que debe cumplir para que los elementos se cumplan.
+
+#+BEGIN_SRC
+ if ( a > b ):
+ 	elementos 
+ elif ( a == b ): 
+ 	elementos 
+ else:
+ 	elementos
+#+END_SRC
+
+
+** Bucle FOR
+
+El bucle de for lo puedes usar de la siguiente forma: recorres una cadena o lista a la cual va a tomar el elemento en cuestión con la siguiente estructura:
+
+#+BEGIN_SRC
+ for i in ____:
+ 	elementos
+#+END_SRC
+
+Ejemplo:
+
+#+BEGIN_SRC
+ for i in range(10):
+ 	print i
+#+END_SRC
+
+En este caso recorrerá una lista de diez elementos, es decir el _print i _de ejecutar diez veces. Ahora i va a tomar cada valor de la lista, entonces este for imprimirá los números del 0 al 9 (recordar que en un range vas hasta el número puesto -1).
+
+** Bucle WHILE
+
+En este caso while tiene una condición que determina hasta cuándo se ejecutará. O sea que dejará de ejecutarse en el momento en que la condición deje de ser cierta. La estructura de un while es la siguiente:
+
+#+BEGIN_SRC
+ while (condición):
+ 	elementos
+#+END_SRC
+
+Ejemplo:
+
+#+BEGIN_SRC
+ >>> x = 0 
+ >>> while x < 10: 
+ ... 	print x 
+ ... 	x += 1
+#+END_SRC
+
+En este ejemplo preguntará si es menor que diez. Dado que es menor imprimirá x y luego sumará una unidad a x. Luego x es 1 y como sigue siendo menor a diez se seguirá ejecutando, y así sucesivamente hasta que x llegue a ser mayor o igual a 10.
 
