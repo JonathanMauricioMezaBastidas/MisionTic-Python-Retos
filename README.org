@@ -22,3 +22,34 @@ aprendidos durante el transcurso del ciclo.
 ** ¿Qué es Python?
 
 Python es un lenguaje de programación creado por [[https://en.wikipedia.org/wiki/Guido_van_Rossum][Guido Van Rossum]], con una sintaxis muy limpia, ideado para enseñar a la gente a programar bien. Se trata de un lenguaje interpretado o de script.
+
+*** Ventajas:
+
+- *Legible:* sintaxis intuitiva y estricta.
+- *Productivo:* ahorra mucho código.
+- *Portable:* para todo sistema operativo.
+- *Recargado:* viene con muchas librerías por defecto.
+
+Editor recomendado : [[https://www.sublimetext.com/][Sublime Text]]
+
+*** Instalación:
+
+Existen dos versiones de Python que tienen gran uso actualmente, Python 2.x y Python 3.x, para este curso necesitas usar una versión 3.x
+
+Para instalar Python solo debes seguir los pasos dependiendo del sistema operativo que tengas instalado.
+
+*Windows*
+Para instalar Python en Windows ve al sitio [[https://www.python.org/downloads/][https://www.python.org/downloads/]] y presiona sobre el botón Download Python 3.7.3
+
+Se descargará un archivo de instalación con el nombre python-3.7.3.exe , ejecútalo. Y sigue los pasos de instalación.
+
+Al finalizar la instalación haz lo siguiente para corroborar una instalación correcta:
+
+- Presiona las teclas Windows + R para abrir la ventana de Ejecutar.
+- Una vez abierta la ventana Ejecutar escribe el comando cmd y presiona ctrl+shift+enter para ejecutar una línea de comandos con permisos de administrador.
+- Windows te preguntará si quieres abrir el Procesador de comandos de Windows con permisos de administrador, presiona sí.
+- En la línea de comandos escribe python.
+
+Tu consola se mostrará así.:
+
+[[https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2817%29-4a934aae-8602-4783-8510-f7bdbbded60d.jpg]]
