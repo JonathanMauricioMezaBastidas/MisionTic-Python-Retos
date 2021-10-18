@@ -104,7 +104,7 @@ $ python archivo.py
 
 Ten en cuenta que para ejecutar el archivo con extensión “.py” debes estar ubicado en el directorio donde tienes guardado el archivo.
 
-*Para salir de Python* y regresar a la terminal debes usar el comando exit()
+*Para salir de Python* y regresar a la terminal debes usar el comando =exit()=.
 
 Cuando usamos Python debemos atender ciertas reglas de la comunidad para definir su estructura. Las encuentras en el libro [[https://www.python.org/dev/peps/pep-0008/][PEP8]].
 
