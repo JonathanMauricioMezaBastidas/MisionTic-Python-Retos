@@ -305,4 +305,32 @@ En los diccionarios tienes un grupo de datos con un formato: la primera cadena o
  (Aparecerá la documentación de la función sorted)
 #+END_SRC
 
+** Clases
+
+Clases es uno de los conceptos con más definiciones en la programación, pero en resumen sólo son la representación de un objeto. Para definir la clase usas_ class_ y el nombre. En caso de tener parámetros los pones entre paréntesis.
+
+Para crear un constructor haces una función dentro de la clase con el nombre init y de parámetros self (significa su clase misma), nombre_r y edad_r:
+
+#+BEGIN_SRC
+ >>> class Estudiante(object): 
+ ... 	def __init__(self,nombre_r,edad_r): 
+ ... 		self.nombre = nombre_r 
+ ... 		self.edad = edad_r 
+ ...
+ ... 	def hola(self): 
+ ... 		return "Mi nombre es %s y tengo %i" % (self.nombre, self.edad) 
+ ... 
+ >>> e = Estudiante(“Arturo”, 21) 
+ >>> print (e.hola())
+ Mi nombre es Arturo y tengo 21
+#+END_SRC
+
+Lo que hicimos en las dos últimas líneas fue:
+
+- En la variable e llamamos la clase Estudiante y le pasamos la cadena “Arturo” y el entero 21.
+
+- Imprimimos la función hola() dentro de la variable e (a la que anteriormente habíamos pasado la clase).
+
+Y por eso se imprime la cadena “Mi nombre es Arturo y tengo 21”
+
 
