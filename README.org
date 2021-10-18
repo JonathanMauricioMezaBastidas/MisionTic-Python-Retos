@@ -46,9 +46,9 @@ Se descargará un archivo de instalación con el nombre python-3.7.3.exe , ejec�
 Al finalizar la instalación haz lo siguiente para corroborar una instalación correcta:
 
 - Presiona las teclas Windows + R para abrir la ventana de Ejecutar.
-- Una vez abierta la ventana Ejecutar escribe el comando cmd y presiona ctrl+shift+enter para ejecutar una línea de comandos con permisos de administrador.
+- Una vez abierta la ventana Ejecutar escribe el comando cmd y presiona =ctrl+shift+enter= para ejecutar una línea de comandos con permisos de administrador.
 - Windows te preguntará si quieres abrir el Procesador de comandos de Windows con permisos de administrador, presiona sí.
-- En la línea de comandos escribe python.
+- En la línea de comandos escribe =python=.
 
 Tu consola se mostrará así.:
 
