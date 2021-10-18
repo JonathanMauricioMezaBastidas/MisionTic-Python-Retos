@@ -38,8 +38,8 @@ Existen dos versiones de Python que tienen gran uso actualmente, Python 2.x y Py
 
 Para instalar Python solo debes seguir los pasos dependiendo del sistema operativo que tengas instalado.
 
-*Windows*
-Para instalar Python en Windows ve al sitio [[https://www.python.org/downloads/][https://www.python.org/downloads/]] y presiona sobre el botón Download Python 3.7.3
+*Windows: *
+para instalar Python en Windows ve al sitio [[https://www.python.org/downloads/][https://www.python.org/downloads/]] y presiona sobre el botón Download Python 3.7.3
 
 Se descargará un archivo de instalación con el nombre python-3.7.3.exe , ejecútalo. Y sigue los pasos de instalación.
 
@@ -53,3 +53,9 @@ Al finalizar la instalación haz lo siguiente para corroborar una instalación c
 Tu consola se mostrará así.:
 
 [[https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2817%29-4a934aae-8602-4783-8510-f7bdbbded60d.jpg]]
+
+*Linux: *
+generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la terminal el comando:
+
+*Versión 2.7: * =python -v=
+*Versión 3.x: * =python3 -v=
