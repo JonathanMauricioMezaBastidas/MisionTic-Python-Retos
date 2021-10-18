@@ -150,7 +150,7 @@ En Python trabajas con =módulos= y =ficheros= que usas para importar las librer
 
 ** Funciones
 
-Las funciones las defines con def junto a un nombre y unos paréntesis que reciben los parámetros a usar. Terminas con dos puntos.
+Las funciones las defines con =def= junto a un nombre y unos paréntesis que reciben los parámetros a usar. Terminas con dos puntos.
 
 *def nombre_de_la_función(parametros):*
 
