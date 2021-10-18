@@ -108,4 +108,44 @@ Ten en cuenta que para ejecutar el archivo con extensión “.py” debes estar 
 
 Cuando usamos Python debemos atender ciertas reglas de la comunidad para definir su estructura. Las encuentras en el libro [[https://www.python.org/dev/peps/pep-0008/][PEP8]].
 
+** Tipos de datos en Python
+
+- *Enteros (int):* en este grupo están todos los números, enteros y long:
+
+#+BEGIN_SRC
+ejemplo: 1, 2.3, 2121, 2192, -123
+#+END_SRC
+
+- *Booleanos (bool):* Son los valores falso o verdadero, compatibles con todas las operaciones booleanas ( and, not, or ):
+
+#+BEGIN_SRC
+ejemplo: True, False
+#+END_SRC
+
+- *Cadenas (str):* Son una cadena de texto :
+
+#+BEGIN_SRC
+ejemplos: “Hola”, “¿Cómo estas?”
+#+END_SRC
+
+- *Listas:* Son un grupo o array de datos, puede contener cualquiera de los datos anteriores:
+
+#+BEGIN_SRC
+ejemplos: [1,2,3, ”hola” , [1,2,3] ], [1,“Hola”,True ]
+#+END_SRC
+
+- *Diccionarios:* Son un grupo de datos que se acceden a partir de una clave:
+
+#+BEGIN_SRC
+ejemplo: {“clave”:”valor”}, {“nombre”:”Fernando”}
+#+END_SRC
+
+- *Tuplas:* también son un grupo de datos igual que una lista con la diferencia que una tupla después de creada no se puede modificar.
+
+#+BEGIN_SRC
+ejemplos: (1,2,3, ”hola” , (1,2,3) ), (1,“Hola”,True ) (Pero jamás podremos cambiar los elementos dentro de esa Tupla)
+#+END_SRC
+
+En Python trabajas con =módulos= y =ficheros= que usas para importar las librerías.
+
 
