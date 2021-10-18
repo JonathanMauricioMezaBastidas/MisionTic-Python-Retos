@@ -148,4 +148,21 @@ ejemplos: (1,2,3, ”hola” , (1,2,3) ), (1,“Hola”,True ) (Pero jamás podr
 
 En Python trabajas con =módulos= y =ficheros= que usas para importar las librerías.
 
+** Funciones
+
+Las funciones las defines con def junto a un nombre y unos paréntesis que reciben los parámetros a usar. Terminas con dos puntos.
+
+*def nombre_de_la_función(parametros):*
+
+Después por indentación colocas los datos que se ejecutarán desde la función:
+
+#+BEGIN_SRC
+ >>> def my_first_function():
+ ...	return “Hello World!” 
+ ...    
+ >>> my_first_function()
+#+END_SRC
+
+Hello World!
+
 
