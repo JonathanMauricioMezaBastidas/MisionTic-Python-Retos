@@ -57,5 +57,13 @@ Tu consola se mostrará así.:
 *Linux:*
  generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la terminal el comando:
 
-*Versión 2.7:* =python -v=
+*Versión 2.7:* =python -v= ó
 *Versión 3.x:* =python3 -v=
+
+Si el comando arroja un error quiere decir que no lo tienes instalado, en ese caso los pasos para instalarlo cambian un poco de acuerdo con la distribución de linux que estés usando. Generalmente el gestor de paquetes de la distribución de Linux tiene el paquete de Python
+
+Si eres usuario de Ubuntu o Debian por ejemplo puedes usar este comando para instalar la versión 3.1:
+
+#+BEGIN_SRC
+$ sudo apt-get install python3.1
+#+END_SRC
