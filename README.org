@@ -50,9 +50,9 @@ Al finalizar la instalación haz lo siguiente para corroborar una instalación c
 - Windows te preguntará si quieres abrir el Procesador de comandos de Windows con permisos de administrador, presiona sí.
 - En la línea de comandos escribe =python=.
 
-Tu consola se mostrará así.:
+<!--Tu consola se mostrará así.:
 
-[[https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2817%29-4a934aae-8602-4783-8510-f7bdbbded60d.jpg]]
+[[https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2817%29-4a934aae-8602-4783-8510-f7bdbbded60d.jpg]]-->
 
 *Linux:*
  generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la terminal el comando:
